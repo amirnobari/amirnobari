@@ -9,7 +9,8 @@ backend(nodejs) developer
 * 🧠  I am learning nest js
 * 🤝  I'm open to collaborating on backend develop
 
-<a href="https://www.github.com/amirnobari" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/amirnobari" target="_blank" rel="noreferrer"><img>
+src="https://img.shields.io/github/followers/aliayn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 ### Skills
