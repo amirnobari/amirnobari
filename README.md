@@ -4,14 +4,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amir+Sondosi+Nobari...;A+Back-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amir+Sondosi+Nobari...;A+Back-end+developer(Node.js);Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
   </a>
 </h1>
-==============================
-
-backend(nodejs) developer
------------------------------
-
+============================
 * 🌍  I'm based in Tabriz,IRI
 * ✉️  You can contact me at [amirnobari1990@gmail.com](mailto:amirnobari1990@gmail.com)
 * 🧠  I am learning nest js
