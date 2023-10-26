@@ -36,8 +36,10 @@ src="https://img.shields.io/github/followers/amirnobari?logo=github&style=for-th
 <p align="left"> <a href="https://github.com/amirnobari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amir_nobari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amir-nobari-643a5b232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  <a href="https://stackoverflow.com/users/18609964/amir-nobari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
  
-### Badges
 
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amirnobari)](https://github.com/ryo-ma/github-profile-trophy)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/amirnobari"><img src="https://github-readme-stats.vercel.app/api?username=amirnobari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amirnobari's GitHub stats" /></a>
