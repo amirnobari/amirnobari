@@ -46,12 +46,10 @@ src="https://img.shields.io/github/followers/amirnobari?logo=github&style=for-th
   <img src="https://streak-stats.demolab.com?user=amirnobari&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###snaks
 ###
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 
-###
 ###
 ### Support Me
 
