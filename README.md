@@ -37,19 +37,15 @@ src="https://img.shields.io/github/followers/amirnobari?logo=github&style=for-th
  <a href="https://stackoverflow.com/users/18609964/amir-nobari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
  
 
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirnobari)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amirnobari"><img src="https://github-readme-stats.vercel.app/api?username=amirnobari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amirnobari's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirnobari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirnobari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amirnobari&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<a href="https://github.com/amirnobari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirnobari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/amirnobari"><img src="https://activity-graph.herokuapp.com/graph?username=amirnobari&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/amirnobari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnobari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
